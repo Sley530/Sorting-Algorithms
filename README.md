@@ -4,8 +4,8 @@ In this project, I was able to implemented several sorting algorithms.
 
 Therefore, I had the following tasks to do
 
-print_array.c
-print_list.c
+- print_array.c
+- print_list.c
 0-bubble_sort.c
 1-insertion_sort_list.c
 2-selection-sort.c
